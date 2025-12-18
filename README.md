@@ -1,6 +1,6 @@
 # 🚀 Geo Isolation Tool Using UserData (Softimage / Maya Style)
 
-Let’s get started! This tool recreates the **Isolate Selection** behavior from **Softimage** and **Maya** in **Houdini**, but with a twist: it uses **each node's `userData`** to store previous visibility states instead of global session variables. This makes the tool safer and avoids session-wide variables.
+This tool recreates the **Isolate Selection** behavior from **Softimage** and **Maya** in **Houdini**, but with a twist: it uses **each node's `userData`** to store previous visibility states instead of global session variables. This makes the tool safer and avoids session-wide variables.
 
 
 ## 📦 What does this tool do?
