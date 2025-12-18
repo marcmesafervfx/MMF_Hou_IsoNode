@@ -2,7 +2,8 @@
     This tool recreates the isolation button from SoftImage or Maya in Houdini.
     It can be mapped to a hotkey to isolate selected nodes or restore previous visibility.
     Previous states are stored in each node's userData, avoiding global variables.
-    Works on all nodes under /obj. """
+    Works on all nodes under /obj. 
+"""
 
 import hou
 
