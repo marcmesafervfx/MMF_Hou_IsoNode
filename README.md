@@ -14,12 +14,12 @@ Let’s get started! This tool recreates the **Isolate Selection** behavior from
 
 ## ✨ Features
 
-* ✅ Toggle-based isolate tool
-* ✅ Stores previous visibility in node `userData`
-* ✅ No global session variables needed
-* ✅ Works on all nodes under `/obj`
-* ✅ Mimics Maya / Softimage isolate selection
-* ✅ Ideal for hotkeys and shelf tools
+* Toggle-based isolate tool
+* Stores previous visibility in node `userData`
+* No global session variables needed
+* Works on all nodes under `/obj`
+* Mimics Maya / Softimage isolate selection
+* Ideal for hotkeys and shelf tools
 
 
 ## 💡 Recommended usage
